@@ -1,11 +1,9 @@
 # PorfolioProjects
 Bike Sales Analysis
-Project Description
-In this project, I evaluated the bike sales data to understand different factors that are considered by the customers before making a purchase decision.
-For implementing this, I created pivot tables in Excel to understand how different factors such as income, gender, education, marital status, regions, etc. 
-are correlated to each other.
-Below is a snippet of the final dashboard in Excel.
 
-![image](https://github.com/FlowCojo/PorfolioProjects/assets/123026369/9870309f-227c-42ec-9c37-bb1ad15c0351)
+In this project, my aim was to analyze bike sales data and gain insights into the various factors that influence customers' purchase decisions. To achieve this, I utilized Excel to create pivot tables, allowing me to examine the relationships between different factors like income, gender, education, marital status, regions, and more. The result of my analysis is summarized in the Excel dashboard snippet presented below.
+
+![image](https://github.com/FlowCojo/PorfolioProjects/assets/123026369/ae97cc60-8c66-48d2-a6f9-0ef7868844a7)
+
 
 
