@@ -21,7 +21,7 @@ From PortfolioProject..CovidDeaths$
 where location like '%states%'
 order by 1,2
 
---Looking aat Total Cases vs Population
+--Looking at Total Cases vs Population
 --Shows what percentage of population got Covid
 Select Location, date, total_cases, population, (total_cases/population)*100 as InfectionRate
 From PortfolioProject..CovidDeaths$
